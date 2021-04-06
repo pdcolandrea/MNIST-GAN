@@ -4,7 +4,9 @@
 
 > A simple, yet quite effective Generative Adversial Network (GAN) which rapidly generates batches of numbers (0-9)
 
-![Alt text](images/1.jpg?raw=true 'Title')
+<p align="center">
+  <img src="images/1.png" width="350" title="GAN output">
+</p>
 
 ## Author
 
